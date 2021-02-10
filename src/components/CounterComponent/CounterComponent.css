@@ -1,0 +1,24 @@
+.MainView {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+.SubView {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+    height: max-content;
+}
+
+.Buttons {
+    height: 20px;
+    width: 40px;
+    margin: 10px;
+}

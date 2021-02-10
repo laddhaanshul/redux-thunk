@@ -1,0 +1,16 @@
+.App {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 670px;
+  width: 100%;
+}
+
+.Mobile {
+  height: 500px;
+  width: 270px;
+  background-color: white;
+  border-radius: 30px;
+}
